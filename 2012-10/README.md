@@ -4,17 +4,6 @@ October 2012 Meetup
 Location: Startup Houston
 Date: October 10, 2012
 
-Appetizer Course
-----------------
-
-Rails Essentials: `simple_form` by @jwo.
- * [houstonrb repo](https://github.com/houston_ruby/rails_essentials/simple_form)
- * [slides](https://speakerdeck.com/u/jwo/p/houstonruby-simple-form)
- * [simple_form](https://github.com/plataformatec/simple_form)
-
-Jesse Wolgamott
- * Twitter: [@jwo](http://twitter.com/jwo)
- * Github: [jwo](http://github.com/jwo)
 
 Main Course
 -----------
@@ -33,3 +22,15 @@ Jonathan Birkholz
  * Github: [rookieone](http://github.com/rookieone)
 
 [Slides](https://github.com/RookieOne/FitterHappierMoreProductive/blob/master/index.html) -- download and view the HTML
+
+Appetizer Course
+----------------
+
+Rails Essentials: `simple_form` by @jwo.
+ * [houstonrb repo](https://github.com/houston_ruby/rails_essentials/simple_form)
+ * [slides](https://speakerdeck.com/u/jwo/p/houstonruby-simple-form)
+ * [simple_form](https://github.com/plataformatec/simple_form)
+
+Jesse Wolgamott
+ * Twitter: [@jwo](http://twitter.com/jwo)
+ * Github: [jwo](http://github.com/jwo)
