@@ -9,7 +9,7 @@ Appetizer Course
 
 Rails Essentials: `simple_form` by @jwo.
  * [houstonrb repo](https://github.com/houston_ruby/rails_essentials/simple_form)
- * pslides](https://speakerdeck.com/u/jwo/p/houstonruby-simple-form)
+ * [slides](https://speakerdeck.com/u/jwo/p/houstonruby-simple-form)
  * [simple_form](https://github.com/plataformatec/simple_form)
 
 Main Course
