@@ -1,7 +1,7 @@
 October 2012 Meetup
 ==================
 
-Location: Startup Houston
+Location: Start Houston  
 Date: October 10, 2012
 
 
