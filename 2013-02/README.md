@@ -26,7 +26,7 @@ How to identify performance bottlenecks in your Rails apps: some things to look 
 
 Sammy Larbi
  * Twitter: [@codeodor](http://twitter.com/codeodor)
- * Github: [codeoder](http://github.com/codeoder)
+ * Github: [codeodor](http://github.com/codeoder)
 
 [Slides](http://codeodor.github.com/TheWebsitesSlow/)
 
